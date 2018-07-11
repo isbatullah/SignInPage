@@ -1,0 +1,11 @@
+{
+  "name": "rest-demo",
+  "version": "0.1.0",
+  "description": "Minimal REST project",
+  "author": "Chris League",
+  "dependencies": {
+    "restify": "^7.1.1",
+    "restify-cookies": "^0.2.5",
+    "uuid": "^3.2.1"
+  }
+}
